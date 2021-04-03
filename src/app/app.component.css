@@ -1,0 +1,7 @@
+body,
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+#div1 { width: 100%; height: 90px; background-color: orange; color: white; text-align: center;}
+#div2 { width: 15%; height: 500px; background-color:red; float: left;color: white; text-align: center;}
+#div3 { width: 70%; height: 500px; background-color: purple; float: left; color: white; text-align: center;}
+#div4 { width: 15%; height: 500px; background-color: navy; float: left; color: white; text-align: center;}
+#div5 { width: 100%; height: 80px;background-color: black; clear: both; color: white; text-align: center;}
